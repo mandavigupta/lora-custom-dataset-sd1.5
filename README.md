@@ -62,10 +62,5 @@ python lora.py
 After training, you can generate custom lotus-style images by prompting Stable Diffusion with your fine-tuned LoRA adapter.
 
 <p align="center"> <img src="generated_lotus.png" width="400"/> </p>
-📌 Credits
-Diffusers by Hugging Face
 
-PEFT (Parameter-Efficient Fine-Tuning)
-
-Inspired by LoRA training guides on DreamBooth and community resources.
 
