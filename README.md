@@ -48,6 +48,8 @@ Use the following script (lora.py) to generate images with your trained LoRA wei
 python lora.py
 ```
 ⚙️ Key Features
+
+
 ✅ Fine-tunes Stable Diffusion v1.5 using LoRA for memory-efficient training.
 
 ✅ Custom dataset loading with image-to-prompt alignment.
